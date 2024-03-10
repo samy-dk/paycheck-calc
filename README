@@ -1,0 +1,6 @@
+paycheck-calc is a, well, paycheck calculator. Written in Rust, it uses the 
+egui library for it's GUI. This is the first time I've ever made anything with 
+a GUI, so I'm very happy about that! In the future, I'd love to add some
+things, like the ability to recal the previous paycheck values to help reduce 
+inputing redundant info that most likely won't change. But for now, this is
+great!
